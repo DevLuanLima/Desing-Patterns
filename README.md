@@ -9,8 +9,8 @@ This repository is intended for the study of Design Patterns using the C# langua
 
 ## 🛠 Technologies
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?cs,dotnet,docker,c,vim" />
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet" />
   </a>
 </p>
 
@@ -18,7 +18,7 @@ This repository is intended for the study of Design Patterns using the C# langua
 	🚧  Projects under construction...  🚧
 </h4>
 
-## Introduction to Design Patters
+## Introduction to Design Patterns
 
 Design patterns are reusable solutions to commonly occurring design problems in software development. They provide proven approaches to tackle challenges, improve code organization, and enhance maintainability. By employing design patterns, developers can create more efficient, scalable, and flexible applications.
 
