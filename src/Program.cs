@@ -1,4 +1,5 @@
 ﻿using DesignPatterns._01___Creational._1._1___Abstract_Factory.Example_1;
+using DesignPatterns._01___Creational._1._2___Factory_Method.Example_1;
 
 class Program
 {
@@ -9,7 +10,10 @@ class Program
         Console.WriteLine("Creational Patterns");
         Console.WriteLine("------------------------");
         Console.WriteLine("1 - Abstract Factory");
-    
+        Console.WriteLine("2 - Method Factory");
+        Console.WriteLine("------------------------");
+
+
 
         var opcao = Console.ReadKey();
 
@@ -22,7 +26,10 @@ class Program
             case '1':
                 ExecuteAbstractFactory.Execute();
                 break;
-           
+            case '2':
+                ExecucaoFactoryMethod.Executar();
+                break;
+
         }
 
         Console.ReadKey();
