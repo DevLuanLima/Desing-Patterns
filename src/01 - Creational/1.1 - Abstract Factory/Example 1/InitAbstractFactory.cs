@@ -1,6 +1,6 @@
 ﻿namespace DesignPatterns._01___Creational._1._1___Abstract_Factory.Example_1
 {
-    public class ExecuteAbstractFactory
+    public class InitAbstractFactory
     {
         public static void Execute()
         {

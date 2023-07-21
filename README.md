@@ -27,7 +27,7 @@ Design patterns are reusable solutions to commonly occurring design problems in 
 -   [x] Creational;
      - [x] Abstract Factory;
      - [x] Factory Method;
-     - [ ] Singleton;
+     - [x] Singleton;
 
 -   [ ] Structural;
      - [ ] Adpter;
